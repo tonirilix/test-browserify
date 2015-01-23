@@ -1,0 +1,30 @@
+{
+  "name": "test-browserify",
+  "version": "1.0.0",
+  "description": "Test browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonirilix/test-browserify.git"
+  },
+  "keywords": [
+    "browserify",
+    "test",
+    "browserify",
+    "browserify",
+    "+",
+    "jquery"
+  ],
+  "author": "@tonirilix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonirilix/test-browserify/issues"
+  },
+  "homepage": "https://github.com/tonirilix/test-browserify",
+  "dependencies": {
+    "jquery": "^2.1.3"
+  }
+}
